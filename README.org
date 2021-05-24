@@ -1,0 +1,8 @@
+#+TITLE: Hall Ticket Information Extraction
+#+AUTHOR: Prof. T. R. Mahore
+
+* Introduction
+
+The provided code extracts information from the Hall Tickets provided by the SGBAU at the time of examination. This project is mainly build to extract the University Roll Numbers of the students and make use of them for other college level work. By using python script it is easy to extract the required information. Most important thing while using this code is to make sure that the pattern of the PDF must be same, you can view the provided file as the sample.
+
+The project is basically foint to generate two files, a. output_names and b. output_rollno. These two files holds the information as mentioned in their file names. Besides that these files don't have any extensions so open them with text editors.

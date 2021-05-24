@@ -1,1 +1,0 @@
-py_icard_info_project
